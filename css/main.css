@@ -5,3 +5,15 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+/* font-family: 'Crimson Text', serif; */
+
+body {
+  font-family: "Crimson Text", serif;
+  font-size: 1.125rem;
+  margin: 0;
+  color: #555;
+  padding: 1rem;
+  width: 1rem;
+  width: 20rem;
+}
