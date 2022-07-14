@@ -17,3 +17,23 @@ body {
   width: 1rem;
   width: 20rem;
 }
+
+article {
+  border-bottom: 1px solid #999;
+}
+
+article header {
+  border-bottom: 1px solid #999;
+}
+
+article h1 {
+  font-family: "Crimson Text", serif;
+  font-size: 1.5rem;
+  font-weight: normal;
+  color: #222;
+  margin-bottom: -1rem;
+}
+
+article p {
+
+}
