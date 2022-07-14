@@ -12,18 +12,18 @@ body {
   font-family: "Crimson Text", serif;
   font-size: 1.125rem;
   margin: 0;
-  color: #555;
+  color: #222;
   padding: 1rem;
   width: 1em;
   width: 20rem;
 }
 
 article {
-  border-bottom: 1px solid #999;
+  border-bottom: 1px solid #222;
 }
 
 article header {
-  border-bottom: 1px solid #999;
+  border-bottom: 1px solid #222;
 }
 
 article h1 {
@@ -63,7 +63,7 @@ blockquote {
   margin-bottom: 1.3em;
   margin-left: 2em;
   margin-right: 4em;
-  color: #999;
+  color: #555;
 }
 
 .quote {
